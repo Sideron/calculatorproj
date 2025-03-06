@@ -1,16 +1,5 @@
 # calculatorproj
 
-A new Flutter project.
+This is a beggineer project I'm making in flutter. I tried to keep a clean code architechture while also making a flexible keyboard resizesable for all screens. Feel free to tell me what things I can improve in my code.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](preview.png)
